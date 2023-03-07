@@ -1,0 +1,15 @@
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\bin\Debug\net6.0\Teste.Variacao.Application.deps.json
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\bin\Debug\net6.0\Teste.Variacao.Application.dll
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\bin\Debug\net6.0\Teste.Variacao.Application.pdb
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\bin\Debug\net6.0\Teste.Variacao.Domain.dll
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\bin\Debug\net6.0\Teste.Variacao.Domain.pdb
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\obj\Debug\net6.0\Teste.Variacao.Application.csproj.AssemblyReference.cache
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\obj\Debug\net6.0\Teste.Variacao.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\obj\Debug\net6.0\Teste.Variacao.Application.AssemblyInfoInputs.cache
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\obj\Debug\net6.0\Teste.Variacao.Application.AssemblyInfo.cs
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\obj\Debug\net6.0\Teste.Variacao.Application.csproj.CoreCompileInputs.cache
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\obj\Debug\net6.0\Teste.Variacao.Application.csproj.CopyComplete
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\obj\Debug\net6.0\Teste.Variacao.Application.dll
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\obj\Debug\net6.0\refint\Teste.Variacao.Application.dll
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\obj\Debug\net6.0\Teste.Variacao.Application.pdb
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Application\obj\Debug\net6.0\ref\Teste.Variacao.Application.dll

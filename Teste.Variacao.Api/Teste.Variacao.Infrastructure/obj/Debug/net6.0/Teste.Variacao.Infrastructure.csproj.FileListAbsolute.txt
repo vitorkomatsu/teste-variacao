@@ -1,0 +1,15 @@
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\obj\Debug\net6.0\Teste.Variacao.Infrastructure.csproj.AssemblyReference.cache
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\obj\Debug\net6.0\Teste.Variacao.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\obj\Debug\net6.0\Teste.Variacao.Infrastructure.AssemblyInfoInputs.cache
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\obj\Debug\net6.0\Teste.Variacao.Infrastructure.AssemblyInfo.cs
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\obj\Debug\net6.0\Teste.Variacao.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\bin\Debug\net6.0\Teste.Variacao.Infrastructure.deps.json
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\bin\Debug\net6.0\Teste.Variacao.Infrastructure.dll
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\bin\Debug\net6.0\Teste.Variacao.Infrastructure.pdb
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\bin\Debug\net6.0\Teste.Variacao.Domain.dll
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\bin\Debug\net6.0\Teste.Variacao.Domain.pdb
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\obj\Debug\net6.0\Teste.Variacao.Infrastructure.csproj.CopyComplete
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\obj\Debug\net6.0\Teste.Variacao.Infrastructure.dll
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\obj\Debug\net6.0\refint\Teste.Variacao.Infrastructure.dll
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\obj\Debug\net6.0\Teste.Variacao.Infrastructure.pdb
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Infrastructure\obj\Debug\net6.0\ref\Teste.Variacao.Infrastructure.dll

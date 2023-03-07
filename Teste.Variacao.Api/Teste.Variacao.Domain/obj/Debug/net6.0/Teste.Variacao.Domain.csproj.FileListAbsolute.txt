@@ -1,0 +1,12 @@
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Domain\bin\Debug\net6.0\Teste.Variacao.Domain.deps.json
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Domain\bin\Debug\net6.0\Teste.Variacao.Domain.dll
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Domain\bin\Debug\net6.0\Teste.Variacao.Domain.pdb
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Domain\obj\Debug\net6.0\Teste.Variacao.Domain.csproj.AssemblyReference.cache
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Domain\obj\Debug\net6.0\Teste.Variacao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Domain\obj\Debug\net6.0\Teste.Variacao.Domain.AssemblyInfoInputs.cache
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Domain\obj\Debug\net6.0\Teste.Variacao.Domain.AssemblyInfo.cs
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Domain\obj\Debug\net6.0\Teste.Variacao.Domain.csproj.CoreCompileInputs.cache
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Domain\obj\Debug\net6.0\Teste.Variacao.Domain.dll
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Domain\obj\Debug\net6.0\refint\Teste.Variacao.Domain.dll
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Domain\obj\Debug\net6.0\Teste.Variacao.Domain.pdb
+D:\Git\backend-contas\Teste.Variacao.Api\Teste.Variacao.Domain\obj\Debug\net6.0\ref\Teste.Variacao.Domain.dll
